@@ -1,20 +1,6 @@
-# func-grupo-1
-
-# RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial, da home page do Projeto.
-
-**!! *Atenção: Renomeie o seu repositório para (Ano.Semestre)_(Grupo)_(Paradigma)_(NomeDoProjeto)*. !!** 
-
-Paradigmas:
- - Funcional
- - Logico
- - SMA
-
-**!! *Não coloque os nomes dos alunos no título do repositório*. !!**
+# 2020.2_TEMP1_Funcional_ProblemaClassico
 
 **!! *Exemplo de título correto: 2020.1_G1_Logico_ProjetoRoteirosAereos*. !!**
- 
- (Apague essa seção)
 
 # NomeDoProjeto
 
