@@ -2,7 +2,7 @@
 
 **!! *Exemplo de título correto: 2020.1_G1_Logico_ProjetoRoteirosAereos*. !!**
 
-# NomeDoProjeto
+# ProblemaClassico
 
 **Disciplina**: FGA0210 - PARADIGMAS DE PROGRAMAÇÃO - T01 <br>
 **Nro do Grupo**: 01<br>
