@@ -13,8 +13,10 @@
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| 19/0106565  |  Fernando Miranda Calil |
-| xx/xxxxxx   |  xxxx xxxx xxxxx        |
+| 19/0106565  |  Fernando Miranda Calil     |
+| 16/0132550  |  Lorrany dos Santos Azevedo |
+| 15/0009011  |  Elias Bernardo             |
+| 15/0008228  |  Daniel Marques Rangel      |
 
 ## Sobre 
 Descreva o seu projeto em linhas gerais. 
