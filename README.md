@@ -1,4 +1,4 @@
-# NomeDoProjeto
+# ClosestPairProblem
 
 **Disciplina**: FGA0210 - PARADIGMAS DE PROGRAMAÇÃO - T01 <br>
 **Nro do Grupo**: 01<br>
